@@ -13,4 +13,4 @@ Após ter instalado ele, é necessário escrever os seguintes comandos:
 - choco install --pre tesseract
 - choco install ghostscript
 
-Para mais informações sobre esse processo, acesse <a href="https://ocrmypdf.readthedocs.io/en/latest/installation.html#installing-on-windows">aqui</a>.
+Para mais informações sobre esse processo, caso utilizar MacOS ou Linux, acesse <a href="https://ocrmypdf.readthedocs.io/en/latest/installation.html#installing-on-windows">aqui</a>.
